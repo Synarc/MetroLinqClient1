@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MetroLinq Client 1</string>
     <string name="title_activity_maps">Map</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">357175011692606</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb357175011692606</string>
+
 </resources>
